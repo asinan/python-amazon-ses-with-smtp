@@ -1,5 +1,4 @@
 #!/usr/bin/python
-
 import smtplib
 
 def prompt(prompt):
